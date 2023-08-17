@@ -1,2 +1,3 @@
 # Game Reviewer
- This is the Game Reviewer PYTHON project
+
+Game Reviewer is a python project that allows the user to search for their favourite games
