@@ -59,7 +59,6 @@ game_reviews = {
     "Hotline Miami": "Hotline Miami gets 91/100",
     "Ori and the Will of the Wisps": "Ori and the Will of the Wisps gets 94/100",
     "Hotline Miami 2: Wrong Number": "Hotline Miami 2: Wrong Number gets 88/100",
-    # Add 40 more mobile games and their reviews here
 "Clash of Clans": "Clash of Clans gets 92/100",
 "Candy Crush Saga": "Candy Crush Saga gets 89/100",
 "Pokémon GO": "Pokémon GO gets 88/100",
